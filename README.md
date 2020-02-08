@@ -1,4 +1,6 @@
-# code-ex-bpc
+# Blooming Pixel Creatives Coding Exercise
+
+This excercise was implemented using Vue and axios
 
 ## Project setup
 ```
